@@ -1,0 +1,23 @@
+Fuente: The Marvelous Land of Oz
+Total de palabras: 22499
+Palabras únicas: 4738
+Signos de puntuación más frecuentes: []
+Bigrams más frecuentes: [(('illustration', 'image'), 128), (('tin', 'woodman'), 127), (('project', 'gutenberg'), 84), (('emerald', 'city'), 76), (('said', 'tip'), 44)]
+Trigrams más frecuentes: [(('illustration', 'image', 'illustration'), 39), (('image', 'illustration', 'image'), 39), (('said', 'tin', 'woodman'), 23), (('project', 'gutenberg', 'electronic'), 18), (('project', 'gutenberg', 'literary'), 13)]
+
+
+Fuente: Dorothy and the Wizard in Oz
+Total de palabras: 22031
+Palabras únicas: 4524
+Signos de puntuación más frecuentes: []
+Bigrams más frecuentes: [(('project', 'gutenberg'), 84), (('little', 'man'), 36), (('said', 'dorothy'), 35), (('said', 'wizard'), 29), (('little', 'girl'), 23)]
+Trigrams más frecuentes: [(('project', 'gutenberg', 'electronic'), 18), (('nine', 'tiny', 'piglets'), 13), (('project', 'gutenberg', 'literary'), 13), (('gutenberg', 'literary', 'archive'), 13), (('literary', 'archive', 'foundation'), 13)]
+
+
+Fuente: The Magic of Oz
+Total de palabras: 21003
+Palabras únicas: 3925
+Signos de puntuación más frecuentes: []
+Bigrams más frecuentes: [(('capn', 'bill'), 109), (('glass', 'cat'), 109), (('project', 'gutenberg'), 84), (('oz', 'people'), 49), (('land', 'oz'), 43)]
+Trigrams más frecuentes: [(('trot', 'capn', 'bill'), 27), (('project', 'gutenberg', 'electronic'), 18), (('project', 'gutenberg', 'literary'), 13), (('gutenberg', 'literary', 'archive'), 13), (('literary', 'archive', 'foundation'), 13)]
+
